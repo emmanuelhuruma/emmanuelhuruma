@@ -1,53 +1,89 @@
-## 🎨 Design & Creative Work
+# 👋 Hi, I'm Emmanuel Huruma
 
-Beyond software development, I’m passionate about **designing digital experiences and visual identities**. I combine design thinking with development to create products that are not only functional, but also visually engaging and easy to use.
+### Full-Stack Developer · UI/UX Designer · Graphic Designer · Mobile Developer
 
-### 🎯 Design Areas
-
-* 🎨 **Graphic Design** — Posters, flyers, social media creatives, marketing materials, and promotional graphics
-* 🖥️ **UI Design** — Modern, responsive interfaces for web and mobile applications
-* 🧩 **UX Design** — User flows, wireframes, prototypes, and intuitive product experiences
-* 🏷️ **Brand Identity** — Logos, typography, color systems, brand guidelines, and visual identity
-* 📱 **Mobile App Design** — Clean and engaging interfaces for Android and cross-platform applications
-* 🌐 **Web Design** — Landing pages, dashboards, websites, and responsive interfaces
-* 📦 **Product Design** — Turning ideas and requirements into practical digital products
-* 🖼️ **Visual Design** — Composition, typography, imagery, layout, and visual communication
-* 🎬 **Creative Content** — Digital artwork, promotional graphics, and visual content for brands
-
-### 🛠️ Design Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ai,xd,ps" alt="Design tools" />
+<p align="center">
+  <a href="https://github.com/emmanuelhuruma">
+    <img src="https://komarev.com/ghpvc/?username=emmanuelhuruma&label=Profile%20Views&style=flat" alt="Profile views">
+  </a>
+  <a href="https://github.com/emmanuelhuruma?tab=followers">
+    <img src="https://img.shields.io/github/followers/emmanuelhuruma?label=Followers&style=flat" alt="GitHub followers">
+  </a>
 </p>
 
-I particularly enjoy working at the intersection of **Design × Technology**, where visual design and engineering come together to create meaningful digital experiences.
+<p align="center">
+  <a href="https://bio.link/nueltech">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/emmanuelhuruma">LinkedIn</a> •
+  <a href="https://twitter.com/emanuel_huruma">Twitter</a> •
+  <a href="mailto:nuelwhoruma@gmail.com">Email</a>
+</p>
 
 ---
 
-## 🚀 What I Build
+## 👨‍💻 About Me
 
-I enjoy combining **development, design, and technology** to build products that solve real problems.
+I'm **Emmanuel Huruma**, a developer and designer from Tanzania passionate about building **useful, beautiful, and user-friendly digital products**.
 
-* 🌐 Full-Stack Web Applications
-* 📱 Android & Cross-Platform Mobile Apps
-* 🎨 Graphic & Visual Design
-* 🖥️ UI/UX & Product Design
-* 🏷️ Brand Identity & Digital Branding
-* ☁️ Cloud-Based Applications
-* 🔐 APIs & Backend Systems
-* 🤖 AI & Computer Vision
-* ⚙️ DevOps & Deployment
-* 🗄️ Database-Driven Applications
-* 📊 Business & Productivity Solutions
+I work across **web development, mobile applications, UI/UX, graphic design, branding, and cloud technologies**.
+
+- 🔭 Currently working on **NuelWeb**
+- 🌱 Learning **DevOps & Cloud Engineering**
+- 💻 Full-Stack & Mobile Development
+- 🎨 UI/UX, Graphic & Product Design
+- 🏷️ Branding & Visual Identity
+- 🤖 Interested in AI & Computer Vision
 
 ---
 
-## 💡 Design Philosophy
+## 🛠️ Skills
 
-> **Good design is more than how something looks — it's about how clearly it communicates and how naturally people interact with it.**
+### Development
 
-I aim to create designs that are:
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,dart,kotlin,react,nextjs,angular,nodejs,express,flutter,android,mongodb,mysql,firebase,docker,aws,gcp,git,linux" alt="Development skills">
+</p>
 
-**Simple · Functional · Consistent · Accessible · Memorable**
+### Design
 
-Whether I'm designing a **brand identity, mobile application, website, dashboard, poster, or complete digital product**, I focus on combining strong visual communication with a great user experience.
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps,xd" alt="Design tools">
+</p>
+
+**Design Focus:** UI/UX · Graphic Design · Branding · Visual Identity · Product Design · Web Design · Mobile App Design
+
+---
+
+## 🚀 What I Do
+
+**Build** — Web & Mobile Applications  
+**Design** — UI/UX & Digital Products  
+**Create** — Graphics & Visual Content  
+**Brand** — Logos & Visual Identities  
+**Deploy** — Cloud & DevOps Solutions
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emmanuelhuruma&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelhuruma&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **collaboration, creative projects, software development, design, and new ideas.**
+
+<p align="center">
+  <a href="https://github.com/emmanuelhuruma">GitHub</a> •
+  <a href="https://linkedin.com/in/emmanuelhuruma">LinkedIn</a> •
+  <a href="https://twitter.com/emanuel_huruma">Twitter</a> •
+  <a href="https://instagram.com/emanuel_huruma">Instagram</a> •
+  <a href="https://www.youtube.com/c/nuelstudio">YouTube</a>
+</p>
+
+<p align="center">
+  <i>Designing ideas. Building solutions.</i>
+</p>
