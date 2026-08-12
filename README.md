@@ -1,3 +1,56 @@
+<!--
+Forking this profile README?
+
+Use the structure, not the identity.
+- Replace the headline and short bio first.
+- Keep only the projects you can explain with confidence.
+- Remove any section you will not maintain.
+- Swap every link, handle, and contact detail with your own.
+-->
+
+<div align="center">
+
+<a href="https://praisetech.tech">
+  <img
+    width="100%"
+    alt="Praise Masunga profile header"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:162032,35:8c3b1f,68:d97706,100:0f766e&height=220&section=header&text=Praise%20Masunga&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Building%20useful%20software%20from%20Zimbabwe%20for%20Africa%20and%20the%20world&descAlignY=58&descSize=18&descColor=f8fafc&animation=fadeIn"
+  />
+</a>
+
+## Product-minded software engineer, founder, and systems builder
+
+I build software for real people, real constraints, and real growth:
+developer tooling, student wellness, mobility, climate resilience,
+field diagnostics, and modern internal platforms.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-praisetech.tech-111827?style=for-the-badge&logo=firefox&logoColor=white)](https://praisetech.tech)
+[![Pages Showcase](https://img.shields.io/badge/Pages-Profile_Showcase-0f766e?style=for-the-badge&logo=githubpages&logoColor=white)](https://praisetechzw.github.io/PraiseTechzw/)
+[![Email](https://img.shields.io/badge/Email-praisetechzw%40gmail.com-c2410c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praisetechzw@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Praise_Masunga-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praisemasunga/)
+[![GitHub](https://img.shields.io/badge/GitHub-@PraiseTechzw-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PraiseTechzw)
+
+![Location](https://img.shields.io/badge/Based%20in-Zimbabwe-0f766e?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Mobile%20%7C%20Web%20%7C%20Cloud%20%7C%20AI-d97706?style=flat-square)
+![Open To](https://img.shields.io/badge/Open%20to-Collaboration%20and%20impact-8c3b1f?style=flat-square)
+
+</div>
+
+---
+
+## Why I Build
+
+I am interested in software that survives contact with real life.
+That means products with actual users, messy constraints, and outcomes that matter.
+
+From Zimbabwe, I am building toward a career defined by useful systems:
+tools for students, tools for developers, tools for operators, and products
+that make technology feel more local, more practical, and more empowering.
+
+> "Africa doesn't lack talent. It lacks infrastructure, opportunity, and the right tools in the right hands."
+
+---
+
 # 👋 Hi, I'm Emmanuel Huruma
 
 ### Full-Stack Developer · UI/UX Designer · Graphic Designer · Mobile Developer
